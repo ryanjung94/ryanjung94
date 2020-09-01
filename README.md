@@ -8,12 +8,10 @@
   </div>
   
 ## Master Degree in Korea National University of Transportation
-- Fall semester of 2020 is the last semester
 - Major of Software
 
 ## Interest
-- Object detection algorithms
-- Knowledge distillation
+- Object detection
 - Model Compression
 - Research
 
