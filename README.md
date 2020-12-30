@@ -7,8 +7,12 @@
 	
   </div>
   
-## Master Degree in Korea National University of Transportation
-- Major of Software
+## Currently
+- Associate Research Engineer in [KBIO Health](https://kbiohealth.kr)
+
+## Education
+- M.S. degree in Korea National University of Transportation
+- B.S. degree in Korea National University of Transportation
 
 ## Interest
 - Object detection
