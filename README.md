@@ -11,8 +11,8 @@
 - Associate Research Engineer in [KBIO Health](https://kbiohealth.kr)
 
 ## Education
-- M.S. degree in Korea National University of Transportation
-- B.S. degree in Korea National University of Transportation
+- Dept. of Software, M.S. degree in Korea National University of Transportation
+- Dept. of Software, B.S. degree in Korea National University of Transportation
 
 ## Interest
 - Object detection
