@@ -8,7 +8,7 @@
   </div>
   
 ## Currently
-- Associate Research Engineer in [KBIO Health](https://kbiohealth.kr)
+- Research Engineer in [KBIO Health](https://kbiohealth.kr)
 
 ## Education
 - Dept. of Software, M.S. degree in Korea National University of Transportation
