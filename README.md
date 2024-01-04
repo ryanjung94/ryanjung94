@@ -8,7 +8,7 @@
   </div>
   
 ## Currently
-- Research Engineer in [Digital Therapeutics Center - Samsung Medical Center](http://www.samsunghospital.com/home/future/rnd/healthcare/current2.do)
+- Research Engineer in Digital Therapeutics Center - [Samsung Medical Center](http://www.samsunghospital.com/home/future/rnd/healthcare/current2.do)
 
 ## Education
 - Dept. of Medical Device Management and Research, Ph.D student in SungKyunKwan University
