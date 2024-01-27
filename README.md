@@ -11,12 +11,11 @@
 - Research Engineer in Digital Therapeutics Center - [Samsung Medical Center](http://www.samsunghospital.com/home/future/rnd/healthcare/current2.do)
 
 ## Education
-- Dept. of Medical Device Management and Research, Ph.D student in SungKyunKwan University
 - Dept. of Software, M.S. degree in Korea National University of Transportation
 - Dept. of Software, B.S. degree in Korea National University of Transportation
 
 ## Interest
-- Bio Signal Analysis
+- Computer Vision
 - Signal Processing
 - Machine Learning
 - Model Compression
