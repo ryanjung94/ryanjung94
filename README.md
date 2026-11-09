@@ -1,8 +1,7 @@
-# Hi there, I'm Juho (Ryan) Jung 👋
+# Hi there👋
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-juho-jung-b4074a193/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juho.jung94@gmail.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryanjung94)](https://github.com/ryanjung94)
 
 > **Software Engineer & AI Researcher** specializing in **Embedded Systems (Linux/Qt/C++)**, **Computer Vision**, and **Biomedical Signal Processing**. Experienced in building automotive OEM navigation systems, healthcare AI models, and IoT edge-cloud platforms.
 
@@ -52,7 +51,7 @@
 
 ## 🎓 Education
 
-- **M.S. in Computer Software**, Korea National University of Transportation *(2019.03 - 2021.02)*
+- **M.S. in Computer Software**, Korea National University of Transportation *(2019.08 - 2021.02)*
   - GPA: **4.5 / 4.5**
   - Thesis: *Artificial intelligence pattern recognition algorithms based on object recognition*
 - **B.S. in Computer Software**, Korea National University of Transportation *(2013.03 - 2019.08)*
